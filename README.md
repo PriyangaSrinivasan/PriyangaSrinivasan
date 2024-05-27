@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mern stack deveploper**
 
-- 💬 Ask me about **basic javascipt**
+- 💬 Ask me about **Html,Css,JavaScript,Dom,ReactJs**
 
 - 📫 How to reach me **priyalaksha17@gmail.com**
 
