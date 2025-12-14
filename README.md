@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Mern stack deveploper**
+- 🌱 I’m a **Mern stack deveploper**
 
-- 💬 Ask me about **Html,Css,JavaScript,Dom,ReactJs**
+- 💬 Ask me about **Html,Css,JavaScript,ReactJs,Node.js,Express.js,MongoDB,Bootstrap**
 
-- 📫 How to reach me **priyalaksha17@gmail.com**
+- 📫 How to reach me **priyangasrini01@gmail.com**
 
 - ⚡ Fun fact **There are no muscles in fingers: Their function is controlled by muscles in your palms and arms.**
 
